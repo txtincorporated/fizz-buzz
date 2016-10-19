@@ -1,5 +1,5 @@
 Create a "standard" project:
-* GitHub repo
+* (forked) GitHub repo
 * npm `package.json`
 * build scripts (`lint`, `test`, `watch`)
 * `.eslintrc`, `.gitignore`

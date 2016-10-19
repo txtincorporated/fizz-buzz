@@ -1,4 +1,4 @@
-const assert = requre('assert');
+const assert = require('assert');
 const fizzBuzz = require('../lib/fizzBuzz');
 
 describe('fizzBuzz', function() {

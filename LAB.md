@@ -16,24 +16,24 @@ That's a tested fizz-buzz module:
     * divisible by 3? `fizz`
     * divisible by 5? `buzz`
     * both? `fizz buzz`
-* example test assertion:
-    ```
-    assert.deepEqual(fizzBuzz(16), [
-        1, 
-        2, 
-        'fizz',     // 3
-        4, 
-        'buzz',     // 5
-        'fizz',     // 6
-        7, 
-        8, 
-        'fizz',     // 9
-        'buzz',     // 10
-        11,
-        'fizz',     // 12
-        13,
-        14,
-        'fizzbuzz', // 15
-        16
-    ]);
-    ```
+* test case:
+ ```
+ assert.deepEqual(fizzBuzz(16), [
+     1, 
+     2, 
+     'fizz',     // 3
+     4, 
+     'buzz',     // 5
+     'fizz',     // 6
+     7, 
+     8, 
+     'fizz',     // 9
+     'buzz',     // 10
+     11,
+     'fizz',     // 12
+     13,
+     14,
+     'fizzbuzz', // 15
+     16
+ ]);
+ ```

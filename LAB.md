@@ -3,6 +3,7 @@ Create a "standard" project:
 * npm `package.json`
 * build scripts (`lint`, `test`, `watch`)
 * `.eslintrc`, `.gitignore`
+* `.travis.yml`
 * `README.md`
     * How to develop/run
     * Contributor Guidelines

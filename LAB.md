@@ -17,6 +17,7 @@ That's a tested fizz-buzz module:
     * divisible by 5? `buzz`
     * both? `fizz buzz`
 * test case:
+
  ```
  assert.deepEqual(fizzBuzz(16), [
      1, 
